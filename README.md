@@ -1,6 +1,6 @@
 # Robotaxi wraps for Tesla display
 
-Unofficial Paint Shop files. Gold graffiti on the **3D car in Toybox / the Tesla app** — not vinyl, not a street wrap, not Tesla.
+Unofficial Paint Shop files. Gold graffiti on the **3D car in Toybox / the Tesla app**
 
 Not affiliated with Tesla, Inc.
 
