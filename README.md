@@ -2,8 +2,6 @@
 
 Unofficial Paint Shop files. Gold graffiti on the **3D car in Toybox / the Tesla app**
 
-Not affiliated with Tesla, Inc.
-
 ![On a Tesla display](preview.jpg)
 
 Folder names match Tesla’s public [custom-wraps](https://github.com/teslamotors/custom-wraps) templates so you download the file for the same model.
